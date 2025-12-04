@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "慶びの種",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-04T12:54:50.460598Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "慶びの種",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_慶びの種_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "慶びの種",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_慶びの種_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
